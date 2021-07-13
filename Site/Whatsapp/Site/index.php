@@ -4,7 +4,7 @@
   <title>
    -- Whatsapp Hack --
   </title>
-  <link href="https://cdn.iconscout.com/icon/free/png-256/whatsapp-62-414273.png" rel="shortcut icon"/>
+  <link 
   <style type="text/css">
    .div1{
       background-color:#040302;
